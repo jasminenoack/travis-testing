@@ -1,4 +1,3 @@
 # Requirements to pip install in .travis.yml #
 
 selenium==2.45.0
-pyvirtualdisplay
